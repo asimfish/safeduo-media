@@ -1,7 +1,64 @@
 {
- "updated": "2026-09-07T02:23:05",
- "n": 132,
+ "updated": "2026-09-07T02:34:14",
+ "n": 135,
  "videos": [
+  {
+   "name": "r34_reagent6_raw_camF",
+   "file": "videos/r34_reagent6_raw_camF.mp4",
+   "thumb": "thumbs/r34_reagent6_raw_camF.jpg",
+   "src": "~/Code/safeduo_media/a8_v4demo/r34_reagent6_raw_camF.mp4",
+   "src_size": "9046063",
+   "mtime": 1788719319,
+   "date": "2026-09-07 02:28",
+   "dur_s": 44.8,
+   "res": "1280x720",
+   "size_mb": 0.56,
+   "round": "r34",
+   "family": "reagent",
+   "mode": "raw",
+   "cam": "F",
+   "view": "close",
+   "theta": null,
+   "policy": null
+  },
+  {
+   "name": "r34_reagent5_raw_camF",
+   "file": "videos/r34_reagent5_raw_camF.mp4",
+   "thumb": "thumbs/r34_reagent5_raw_camF.jpg",
+   "src": "~/Code/safeduo_media/a8_v4demo/r34_reagent5_raw_camF.mp4",
+   "src_size": "2305535",
+   "mtime": 1788719092,
+   "date": "2026-09-07 02:24",
+   "dur_s": 11.2,
+   "res": "1280x720",
+   "size_mb": 0.15,
+   "round": "r34",
+   "family": "reagent",
+   "mode": "raw",
+   "cam": "F",
+   "view": "close",
+   "theta": null,
+   "policy": null
+  },
+  {
+   "name": "r34_reagent4_raw_camF",
+   "file": "videos/r34_reagent4_raw_camF.mp4",
+   "thumb": "thumbs/r34_reagent4_raw_camF.jpg",
+   "src": "~/Code/safeduo_media/a8_v4demo/r34_reagent4_raw_camF.mp4",
+   "src_size": "8334618",
+   "mtime": 1788718585,
+   "date": "2026-09-07 02:16",
+   "dur_s": 44.8,
+   "res": "1280x720",
+   "size_mb": 0.55,
+   "round": "r34",
+   "family": "reagent",
+   "mode": "raw",
+   "cam": "F",
+   "view": "close",
+   "theta": null,
+   "policy": null
+  },
   {
    "name": "r34_reagent3_s0_camF",
    "file": "videos/r34_reagent3_s0_camF.mp4",
@@ -18,7 +75,8 @@
    "mode": "gated",
    "cam": "F",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r34_beam1_raw_camX",
@@ -36,7 +94,8 @@
    "mode": "raw",
    "cam": "X",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r34_reagent2_raw_camF",
@@ -54,7 +113,8 @@
    "mode": "raw",
    "cam": "F",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r34_reagent1_raw_camF",
@@ -72,7 +132,8 @@
    "mode": "raw",
    "cam": "F",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_baton11_s0_phys_camY",
@@ -90,7 +151,8 @@
    "mode": "gated",
    "cam": "Y",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_baton7_raw_phys_camC",
@@ -108,7 +170,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r27_baton3_raw_phys_camY",
@@ -126,7 +189,8 @@
    "mode": "raw",
    "cam": "Y",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_baton2_raw_phys_camY",
@@ -144,7 +208,8 @@
    "mode": "raw",
    "cam": "Y",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_baton1_raw_phys_camY",
@@ -162,7 +227,8 @@
    "mode": "raw",
    "cam": "Y",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_box2_s0_phys_camX",
@@ -180,7 +246,8 @@
    "mode": "gated",
    "cam": "X",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_box2_raw_phys_camX",
@@ -198,7 +265,8 @@
    "mode": "raw",
    "cam": "X",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_box1_raw_phys_camX",
@@ -216,7 +284,8 @@
    "mode": "raw",
    "cam": "X",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_rod5_s0_phys_camX",
@@ -234,7 +303,8 @@
    "mode": "gated",
    "cam": "X",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_rod4_s0_phys_camL",
@@ -252,7 +322,8 @@
    "mode": "gated",
    "cam": "L",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_rod3_s0_phys_camL",
@@ -270,7 +341,8 @@
    "mode": "gated",
    "cam": "L",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_rod2_s0_phys_camL",
@@ -288,7 +360,8 @@
    "mode": "gated",
    "cam": "L",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_rod1_s0_phys_camF",
@@ -306,7 +379,8 @@
    "mode": "gated",
    "cam": "F",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_bottle7_s0_phys_camU",
@@ -324,7 +398,8 @@
    "mode": "gated",
    "cam": "U",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_bottle6_s0_phys_camU",
@@ -342,7 +417,8 @@
    "mode": "gated",
    "cam": "U",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_bottle5_s0_phys_camU",
@@ -360,7 +436,8 @@
    "mode": "gated",
    "cam": "U",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_bottle5_s0_phys_camN",
@@ -378,7 +455,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_bottle_s0_a27t50_phys_camN",
@@ -396,7 +474,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_bottle_s0_a27t50_phys_camC",
@@ -414,7 +493,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "pair_pickplace_attach_vs_phys_camN",
@@ -432,7 +512,8 @@
    "mode": "attach",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "pair_grasp_attach_vs_phys_camN",
@@ -450,7 +531,8 @@
    "mode": "attach",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_final_pickplace_raw_phys_camN",
@@ -468,7 +550,8 @@
    "mode": "raw",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_final_pickplace_s0_a27t50_phys_camN",
@@ -486,7 +569,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_final_grasp_raw_phys_camN",
@@ -504,7 +588,8 @@
    "mode": "raw",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_final_grasp_s0_a27t50_phys_camN",
@@ -522,7 +607,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_r16_fing_grasp_s0_a27t50_phys_camN",
@@ -540,7 +626,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_r16_sq10r10_grasp_s0_a27t50_phys_camN",
@@ -558,7 +645,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_r16_sq06r10_grasp_s0_a27t50_phys_camN",
@@ -576,7 +664,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_r16_grasp_raw_phys_camN",
@@ -594,7 +683,8 @@
    "mode": "raw",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_r16_grasp_s0_a27t50_phys_camN",
@@ -612,7 +702,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_r23_pickplace_s0_a27t50_attach_camN",
@@ -630,7 +721,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_r23_grasp_s0_a27t50_attach_camN",
@@ -648,7 +740,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_old_pickplace_s0_a27t50_attach_camN",
@@ -666,7 +759,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_old_grasp_s0_a27t50_attach_camN",
@@ -684,7 +778,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_s1_pickplace_s0_a27t50_phys_camN",
@@ -702,7 +797,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_s1_pickplace_raw_phys_camN",
@@ -720,7 +816,8 @@
    "mode": "raw",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_s1_grasp_raw_phys_camN",
@@ -738,7 +835,8 @@
    "mode": "raw",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_s1_grasp_s0_a27t50_phys_camN",
@@ -756,7 +854,8 @@
    "mode": "gated",
    "cam": "N",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "r27_s1_grasp_raw_phys_r27_camN",
@@ -774,7 +873,8 @@
    "mode": "raw",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_diag_grasp_raw_phys_r27_camN",
@@ -792,7 +892,8 @@
    "mode": "raw",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r27_diag_grasp_raw_phys_base_camN",
@@ -810,7 +911,8 @@
    "mode": "raw",
    "cam": "N",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "pair_tray_R30b_before_after",
@@ -828,7 +930,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r26_tray_s0_a27t50_r29_r30b_camC",
@@ -846,7 +949,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "pair_rod_a27_r29",
@@ -864,7 +968,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": "a27"
+   "policy": "a27",
+   "view": "wide"
   },
   {
    "name": "pair_box_a27_r29",
@@ -882,7 +987,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": "a27"
+   "policy": "a27",
+   "view": "wide"
   },
   {
    "name": "pair_tray_a27_r29",
@@ -900,7 +1006,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": "a27"
+   "policy": "a27",
+   "view": "wide"
   },
   {
    "name": "pair_bottle_a27_r29",
@@ -918,7 +1025,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": "a27"
+   "policy": "a27",
+   "view": "wide"
   },
   {
    "name": "pair_pillow_a27_r29",
@@ -936,7 +1044,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": "a27"
+   "policy": "a27",
+   "view": "wide"
   },
   {
    "name": "pair_relay_a27_r29",
@@ -954,7 +1063,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": "a27"
+   "policy": "a27",
+   "view": "wide"
   },
   {
    "name": "pair_fourlift_a27_r29",
@@ -972,7 +1082,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": "a27"
+   "policy": "a27",
+   "view": "wide"
   },
   {
    "name": "r26_rod_s0_a27t50_r29_camC",
@@ -990,7 +1101,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "r26_box_s0_a27t50_r29_camC",
@@ -1008,7 +1120,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "r26_tray_s0_a27t50_r29_camC",
@@ -1026,7 +1139,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "r24_pillow_s0_a27t50_r29_camC",
@@ -1044,7 +1158,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "r26_bottle_s0_a27t50_r29_camC",
@@ -1062,7 +1177,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "r24_relay_s0_a27t50_r29_camC",
@@ -1080,7 +1196,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "r24_fourlift_s0_a27t50_r29_camC",
@@ -1098,7 +1215,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "pair_ho_a27t45_preR29_vs_R29_camC",
@@ -1116,7 +1234,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "45",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "pair_pp_a27t45_camC",
@@ -1134,7 +1253,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "45",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "pair_pp_a27t50_r29_camC",
@@ -1152,7 +1272,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "pair_grasp_a27t50_r29_camC",
@@ -1170,7 +1291,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "pair_ho_a27t50_r29_camB",
@@ -1188,7 +1310,8 @@
    "mode": "gated",
    "cam": "B",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "pair_ho_a27t50_r29_camC",
@@ -1206,7 +1329,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "s9_ho_s0_a27t45_camC",
@@ -1224,7 +1348,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "45",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "s9_ho_s0_a27t45_r29_camC",
@@ -1242,7 +1367,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "45",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "s9_pp_s0_a27t45_camC",
@@ -1260,7 +1386,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "45",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "s9_pp_s0_a27t50_r29_camC",
@@ -1278,7 +1405,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "s9_pp_raw_v18_camC",
@@ -1296,7 +1424,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9_grasp_s0_a27t50_r29_camC",
@@ -1314,7 +1443,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "s9_grasp_raw_v18_camC",
@@ -1332,7 +1462,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9_ho_s0_a27t50_r29_camB",
@@ -1350,7 +1481,8 @@
    "mode": "gated",
    "cam": "B",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "close"
   },
   {
    "name": "s9_ho_s0_a27t50_r29_camC",
@@ -1368,7 +1500,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "50",
-   "policy": "a27t"
+   "policy": "a27t",
+   "view": "wide"
   },
   {
    "name": "s9_ho_raw_v18_camB",
@@ -1386,7 +1519,8 @@
    "mode": "raw",
    "cam": "B",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "s9_ho_raw_v18_camC",
@@ -1404,7 +1538,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r26_bottle_camC_v26",
@@ -1422,7 +1557,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r26_box_camC_v5",
@@ -1440,7 +1576,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r26_rod_camC_v1",
@@ -1458,7 +1595,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r26_tray_camC_v1",
@@ -1476,7 +1614,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r24_fourlift_camC_final",
@@ -1494,7 +1633,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9_ho_raw_camC_v32",
@@ -1512,7 +1652,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r24_pillow_camC_v32",
@@ -1530,7 +1671,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9_ho_raw_camB_v32",
@@ -1548,7 +1690,8 @@
    "mode": "raw",
    "cam": "B",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "r24_relay_camC_v32",
@@ -1566,7 +1709,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r24_fourlift_camC_v32",
@@ -1584,7 +1728,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "pair_ho_camC",
@@ -1602,7 +1747,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "pair_ho_camB",
@@ -1620,7 +1766,8 @@
    "mode": "raw",
    "cam": "B",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "pair_pp_camC",
@@ -1638,7 +1785,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "pair_pp_camB",
@@ -1656,7 +1804,8 @@
    "mode": "raw",
    "cam": "B",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "pair_grasp_camC",
@@ -1674,7 +1823,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "pair_grasp_camB",
@@ -1692,7 +1842,8 @@
    "mode": "raw",
    "cam": "B",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "s9task_grasp_raw_camtest_demo",
@@ -1710,7 +1861,8 @@
    "mode": "raw",
    "cam": "T",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "s9task_grasp_raw_snapfix",
@@ -1728,7 +1880,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r24_relay_camC",
@@ -1746,7 +1899,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r24_fourlift_camC",
@@ -1764,7 +1918,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "r24_pillow_camC",
@@ -1782,7 +1937,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9_pp_raw_camC",
@@ -1800,7 +1956,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9_pp_s0t35_camB",
@@ -1818,7 +1975,8 @@
    "mode": "gated",
    "cam": "B",
    "theta": "35",
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "s9_pp_s0t35_camC",
@@ -1836,7 +1994,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "35",
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9_ho_s0t35_camC",
@@ -1854,7 +2013,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "35",
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9_pp_raw_camB",
@@ -1872,7 +2032,8 @@
    "mode": "raw",
    "cam": "B",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "s9_grasp_s0t35_camC",
@@ -1890,7 +2051,8 @@
    "mode": "gated",
    "cam": "C",
    "theta": "35",
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9_ho_raw_camB",
@@ -1908,7 +2070,8 @@
    "mode": "raw",
    "cam": "B",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "s9_ho_raw_camC",
@@ -1926,7 +2089,8 @@
    "mode": "raw",
    "cam": "C",
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9_ho_s0t35_camB",
@@ -1944,7 +2108,8 @@
    "mode": "gated",
    "cam": "B",
    "theta": "35",
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "s9_grasp_s0t35_camB",
@@ -1962,7 +2127,8 @@
    "mode": "gated",
    "cam": "B",
    "theta": "35",
-   "policy": null
+   "policy": null,
+   "view": "close"
   },
   {
    "name": "s9task_relay_chain_raw_r24",
@@ -1980,7 +2146,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_pick_place_s0_a25",
@@ -1998,7 +2165,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": "a25"
+   "policy": "a25",
+   "view": "wide"
   },
   {
    "name": "s9task_pillow_sheath_raw_r24",
@@ -2016,7 +2184,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_handover_s0_a25",
@@ -2034,7 +2203,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": "a25"
+   "policy": "a25",
+   "view": "wide"
   },
   {
    "name": "s9task_pick_place_raw_r23",
@@ -2052,7 +2222,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_handover_raw_r23",
@@ -2070,7 +2241,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_grasp_s0_a25",
@@ -2088,7 +2260,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": "a25"
+   "policy": "a25",
+   "view": "wide"
   },
   {
    "name": "s9task_grasp_raw_r23",
@@ -2106,7 +2279,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_four_lift_raw_r24",
@@ -2124,7 +2298,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_pick_place_s0t35_a25",
@@ -2142,7 +2317,8 @@
    "mode": "gated",
    "cam": null,
    "theta": "35",
-   "policy": "a25"
+   "policy": "a25",
+   "view": "wide"
   },
   {
    "name": "s9task_handover_s0t35_a25",
@@ -2160,7 +2336,8 @@
    "mode": "gated",
    "cam": null,
    "theta": "35",
-   "policy": "a25"
+   "policy": "a25",
+   "view": "wide"
   },
   {
    "name": "s9task_grasp_s0t35_a25",
@@ -2178,7 +2355,8 @@
    "mode": "gated",
    "cam": null,
    "theta": "35",
-   "policy": "a25"
+   "policy": "a25",
+   "view": "wide"
   },
   {
    "name": "s9task_pick_place_s0_r18",
@@ -2196,7 +2374,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_pick_place_raw_r18",
@@ -2214,7 +2393,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_handover_raw_r18",
@@ -2232,7 +2412,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_grasp_s0_r18",
@@ -2250,7 +2431,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_grasp_raw_r18",
@@ -2268,7 +2450,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "d5_compare_env2_head_on",
@@ -2286,7 +2469,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "d5_raw_run000_front",
@@ -2304,7 +2488,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "d5_raw_run003_front",
@@ -2322,7 +2507,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "d5_safeduo_run002_front",
@@ -2340,7 +2526,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "d5_safeduo_run003_front",
@@ -2358,7 +2545,8 @@
    "mode": "raw",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   },
   {
    "name": "s9task_handover_s0_r18",
@@ -2376,7 +2564,8 @@
    "mode": "gated",
    "cam": null,
    "theta": null,
-   "policy": null
+   "policy": null,
+   "view": "wide"
   }
  ]
 }
