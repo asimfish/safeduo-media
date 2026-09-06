@@ -1,7 +1,26 @@
 {
- "updated": "2026-09-07T02:35:32",
- "n": 135,
+ "updated": "2026-09-07T02:40:36",
+ "n": 136,
  "videos": [
+  {
+   "name": "r34_beam1_raw_camW",
+   "file": "videos/r34_beam1_raw_camW.mp4",
+   "thumb": "thumbs/r34_beam1_raw_camW.jpg",
+   "src": "~/Code/safeduo_media/a8_v4demo/r34_beam1_raw_camW.mp4",
+   "src_size": "11193834",
+   "mtime": 1788719666,
+   "date": "2026-09-07 02:34",
+   "dur_s": 41.8,
+   "res": "1280x720",
+   "size_mb": 0.57,
+   "round": "r34",
+   "family": "beam",
+   "mode": "raw",
+   "cam": "W",
+   "view": "wide",
+   "theta": null,
+   "policy": null
+  },
   {
    "name": "r34_reagent6_raw_camF",
    "file": "videos/r34_reagent6_raw_camF.mp4",
