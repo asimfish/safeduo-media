@@ -1,7 +1,25 @@
 {
- "updated": "2026-09-07T01:34:02",
- "n": 129,
+ "updated": "2026-09-07T01:35:38",
+ "n": 130,
  "videos": [
+  {
+   "name": "r34_reagent2_raw_camF",
+   "file": "videos/r34_reagent2_raw_camF.mp4",
+   "thumb": "thumbs/r34_reagent2_raw_camF.jpg",
+   "src": "~/Code/safeduo_media/r34_lab/r34_reagent2_raw_camF.mp4",
+   "src_size": "8416811",
+   "mtime": 1788716121,
+   "date": "2026-09-07 01:35",
+   "dur_s": 44.8,
+   "res": "1280x720",
+   "size_mb": 0.55,
+   "round": "r34",
+   "family": "reagent",
+   "mode": "raw",
+   "cam": "F",
+   "theta": null,
+   "policy": null
+  },
   {
    "name": "r34_reagent1_raw_camF",
    "file": "videos/r34_reagent1_raw_camF.mp4",
