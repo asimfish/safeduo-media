@@ -1,7 +1,26 @@
 {
- "updated": "2026-09-08T00:57:38",
- "n": 157,
+ "updated": "2026-09-08T01:08:01",
+ "n": 158,
  "videos": [
+  {
+   "name": "r35_pipe6_s0_video",
+   "file": "videos/r35_pipe6_s0_video.mp4",
+   "thumb": "thumbs/r35_pipe6_s0_video.jpg",
+   "src": "~/Code/safeduo_media/r35_factory/r35_pipe6_s0_video.mp4",
+   "src_size": "12158911",
+   "mtime": 1788800586,
+   "date": "2026-09-08 01:03",
+   "dur_s": 44.8,
+   "res": "1280x720",
+   "size_mb": 0.69,
+   "round": "r35",
+   "family": "other",
+   "mode": "gated",
+   "cam": null,
+   "view": "wide",
+   "theta": null,
+   "policy": null
+  },
   {
    "name": "r35_rail7_s0_camQ",
    "file": "videos/r35_rail7_s0_camQ.mp4",
