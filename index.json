@@ -1,7 +1,26 @@
 {
- "updated": "2026-09-08T21:11:58",
- "n": 165,
+ "updated": "2026-09-08T21:19:18",
+ "n": 167,
  "videos": [
+  {
+   "name": "r35_colift12_s0_video",
+   "file": "videos/r35_colift12_s0_video.mp4",
+   "thumb": "thumbs/r35_colift12_s0_video.jpg",
+   "src": "~/Code/safeduo_media/a8_v4demo/r35_colift12_s0_video.mp4",
+   "src_size": "11457723",
+   "mtime": 1788873062,
+   "date": "2026-09-08 21:11",
+   "dur_s": 50.4,
+   "res": "1280x720",
+   "size_mb": 0.8,
+   "round": "r35",
+   "family": "other",
+   "mode": "gated",
+   "cam": null,
+   "view": "wide",
+   "theta": "12",
+   "policy": null
+  },
   {
    "name": "r35_colift12_raw_video",
    "file": "videos/r35_colift12_raw_video.mp4",
@@ -19,6 +38,25 @@
    "cam": null,
    "view": "wide",
    "theta": "12",
+   "policy": null
+  },
+  {
+   "name": "r35_colift11_raw_video",
+   "file": "videos/r35_colift11_raw_video.mp4",
+   "thumb": "thumbs/r35_colift11_raw_video.jpg",
+   "src": "~/Code/safeduo_media/a8_v4demo/r35_colift11_raw_video.mp4",
+   "src_size": "11452128",
+   "mtime": 1788871122,
+   "date": "2026-09-08 20:38",
+   "dur_s": 50.4,
+   "res": "1280x720",
+   "size_mb": 0.8,
+   "round": "r35",
+   "family": "other",
+   "mode": "raw",
+   "cam": null,
+   "view": "wide",
+   "theta": "11",
    "policy": null
   },
   {
