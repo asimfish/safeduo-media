@@ -1,7 +1,26 @@
 {
- "updated": "2026-09-08T20:50:12",
- "n": 164,
+ "updated": "2026-09-08T21:01:34",
+ "n": 165,
  "videos": [
+  {
+   "name": "r35_colift12_raw_video",
+   "file": "videos/r35_colift12_raw_video.mp4",
+   "thumb": "thumbs/r35_colift12_raw_video.jpg",
+   "src": "~/Code/safeduo_media/r35_factory/r35_colift12_raw_video.mp4",
+   "src_size": "11514458",
+   "mtime": 1788872377,
+   "date": "2026-09-08 20:59",
+   "dur_s": 50.4,
+   "res": "1280x720",
+   "size_mb": 0.8,
+   "round": "r35",
+   "family": "other",
+   "mode": "raw",
+   "cam": null,
+   "view": "wide",
+   "theta": "12",
+   "policy": null
+  },
   {
    "name": "r35_carton25_s0_video",
    "file": "videos/r35_carton25_s0_video.mp4",
