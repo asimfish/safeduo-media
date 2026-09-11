@@ -1,7 +1,26 @@
 {
- "updated": "2026-09-12T02:51:00",
- "n": 168,
+ "updated": "2026-09-12T03:01:20",
+ "n": 169,
  "videos": [
+  {
+   "name": "two_pair_profiles_camU",
+   "file": "videos/two_pair_profiles_camU.mp4",
+   "thumb": "thumbs/two_pair_profiles_camU.jpg",
+   "src": "~/Code/safeduo_media/r37_colift/two_pair_profiles_camU.mp4",
+   "src_size": "10094396",
+   "mtime": 1789147944,
+   "date": "2026-09-12 01:32",
+   "dur_s": 49.4,
+   "res": "1280x720",
+   "size_mb": 0.67,
+   "round": "misc",
+   "family": "pair",
+   "mode": "raw",
+   "cam": "U",
+   "view": "close",
+   "theta": null,
+   "policy": null
+  },
   {
    "name": "two_pair_profiles_camF",
    "file": "videos/two_pair_profiles_camF.mp4",
