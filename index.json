@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T00:05:35",
+ "updated": "2026-09-17T00:15:55",
  "n": 171,
  "videos": [
   {
@@ -13,13 +13,13 @@
    "dur_s": 54.2,
    "res": "1280x720",
    "size_mb": 0.54,
-   "round": "a31b-diagnostic",
-   "family": "four_arm_conflict",
+   "round": "misc",
+   "family": "other",
    "mode": "gated",
    "cam": null,
    "view": "wide",
-   "theta": "0.5:0.2",
-   "policy": "a31b"
+   "theta": null,
+   "policy": null
   },
   {
    "name": "four_arm_conflict_v2_20260916_raw",
@@ -32,8 +32,8 @@
    "dur_s": 54.2,
    "res": "1280x720",
    "size_mb": 0.58,
-   "round": "a31b-diagnostic",
-   "family": "four_arm_conflict",
+   "round": "misc",
+   "family": "other",
    "mode": "raw",
    "cam": null,
    "view": "wide",
