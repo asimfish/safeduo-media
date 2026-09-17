@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T02:40:55",
+ "updated": "2026-09-18T02:49:33",
  "n": 176,
  "videos": [
   {
@@ -13,11 +13,11 @@
    "dur_s": 22.0,
    "res": "2560x1536",
    "size_mb": 19.64,
-   "round": "camera-review",
-   "family": "four_arm_crossrow",
+   "round": "misc",
+   "family": "grasp",
    "mode": "raw",
-   "cam": "MULTI",
-   "view": "multiview",
+   "cam": "E",
+   "view": "close",
    "theta": null,
    "policy": null
   },
