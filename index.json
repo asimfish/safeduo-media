@@ -1,7 +1,26 @@
 {
- "updated": "2026-09-18T02:28:52",
- "n": 175,
+ "updated": "2026-09-18T02:40:14",
+ "n": 176,
  "videos": [
+  {
+   "name": "camera_review_crossrow_grasp_20260918",
+   "file": "videos/camera_review_crossrow_grasp_20260918.mp4",
+   "thumb": "thumbs/camera_review_crossrow_grasp_20260918.jpg",
+   "src": "camera_review_20260918",
+   "src_size": "20597914",
+   "mtime": 1789670369,
+   "date": "2026-09-18",
+   "dur_s": 22.0,
+   "res": "2560x1536",
+   "size_mb": 19.64,
+   "round": "camera-review",
+   "family": "four_arm_crossrow",
+   "mode": "raw",
+   "cam": "MULTI",
+   "view": "multiview",
+   "theta": null,
+   "policy": null
+  },
   {
    "name": "four_arm_crossrow_colift_pair_20260917_s0",
    "file": "videos/four_arm_crossrow_colift_pair_20260917_s0.mp4",
